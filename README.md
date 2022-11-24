@@ -1,6 +1,6 @@
 # Iniciando prueba de Axios POST
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+La prueba se realiza con una API real gratis a [API](https://jsonplaceholder.typicode.com/users ).
 
 ## Iniciar proyecto con `npm start`
 
